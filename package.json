@@ -1,0 +1,23 @@
+{
+  "name": "gulp-md5-hash-file",
+  "version": "1.0.0",
+  "description": "Gulp plugin to optimize browser files caching",
+  "main": "index.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manugando/gulp-md5-hash-file.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manugando/gulp-md5-hash-file/issues"
+  },
+  "homepage": "https://github.com/manugando/gulp-md5-hash-file#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.3"
+  }
+}
